@@ -1,0 +1,6 @@
+{
+  "type": "WELCOME",
+  "data": {
+    "fullName": "Jane Doe"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "subject": "Profile Updated - Inferno Bank",
+  "htmlBody": "<html><body><div style='font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;'><h1 style='color: #388e3c;'>Profile Updated ✅</h1><p>Your profile information was successfully updated on:</p><p><strong>{{date}}</strong></p><p>If you didn't make this change, please contact us immediately.</p><p>Best regards,<br><strong>Inferno Bank Team</strong></p></div></body></html>",
+  "textBody": "Profile Updated\n\nYour profile information was successfully updated on: {{date}}\n\nIf you didn't make this change, please contact us immediately.\n\nBest regards,\nInferno Bank Team"
+}

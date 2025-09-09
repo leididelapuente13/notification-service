@@ -1,0 +1,5 @@
+{
+  "subject": "Login Alert - Inferno Bank",
+  "htmlBody": "<html><body><div style='font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;'><h1 style='color: #1976d2;'>Login Alert 🔐</h1><p>Your account was accessed on:</p><p><strong>{{date}}</strong></p><p>If this wasn't you, please contact us immediately at support@infernobank.com</p><p>Stay secure,<br><strong>Inferno Bank Security Team</strong></p></div></body></html>",
+  "textBody": "Login Alert\n\nYour account was accessed on: {{date}}\n\nIf this wasn't you, please contact us immediately at support@infernobank.com\n\nStay secure,\nInferno Bank Security Team"
+}

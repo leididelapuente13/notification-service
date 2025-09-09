@@ -1,0 +1,5 @@
+{
+  "subject": "New Card Created - Inferno Bank",
+  "htmlBody": "<html><body><div style='font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;'><h1 style='color: #7b1fa2;'>New {{type}} Card Created 💳</h1><p>Your new <strong>{{type}}</strong> card has been created successfully!</p><ul><li><strong>Date:</strong> {{date}}</li><li><strong>Card Type:</strong> {{type}}</li><li><strong>Available Limit:</strong> ${{amount}}</li></ul><p>Your card will be activated after completing 10 transactions (for credit cards).</p><p>Best regards,<br><strong>Inferno Bank Team</strong></p></div></body></html>",
+  "textBody": "New {{type}} Card Created\n\nYour new {{type}} card has been created successfully!\n\nDetails:\n- Date: {{date}}\n- Card Type: {{type}}\n- Available Limit: ${{amount}}\n\nYour card will be activated after completing 10 transactions (for credit cards).\n\nBest regards,\nInferno Bank Team"
+}

@@ -1,0 +1,5 @@
+{
+  "subject": "Card Activated - Inferno Bank",
+  "htmlBody": "<html><body><div style='font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;'><h1 style='color: #f57c00;'>{{type}} Card Activated! 🎉</h1><p>Congratulations! Your <strong>{{type}}</strong> card has been activated.</p><ul><li><strong>Activation Date:</strong> {{date}}</li><li><strong>Card Type:</strong> {{type}}</li><li><strong>Available Balance/Limit:</strong> ${{amount}}</li></ul><p>You can now use your card for all transactions!</p><p>Best regards,<br><strong>Inferno Bank Team</strong></p></div></body></html>",
+  "textBody": "{{type}} Card Activated!\n\nCongratulations! Your {{type}} card has been activated.\n\nDetails:\n- Activation Date: {{date}}\n- Card Type: {{type}}\n- Available Balance/Limit: ${{amount}}\n\nYou can now use your card for all transactions!\n\nBest regards,\nInferno Bank Team"
+}

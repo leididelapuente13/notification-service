@@ -1,0 +1,5 @@
+{
+  "subject": "Purchase Transaction - Inferno Bank",
+  "htmlBody": "<html><body><div style='font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;'><h1 style='color: #d32f2f;'>Purchase Made 🛒</h1><p>A purchase transaction has been processed on your account.</p><div style='background: #f5f5f5; padding: 15px; border-radius: 5px; margin: 15px 0;'><h3>Transaction Details:</h3><ul><li><strong>Amount:</strong> ${{amount}}</li><li><strong>Merchant:</strong> {{merchant}}</li><li><strong>Date:</strong> {{date}}</li><li><strong>Card ID:</strong> {{cardId}}</li></ul></div><p>If you don't recognize this transaction, contact us immediately.</p><p>Best regards,<br><strong>Inferno Bank Team</strong></p></div></body></html>",
+  "textBody": "Purchase Made\n\nA purchase transaction has been processed on your account.\n\nTransaction Details:\n- Amount: ${{amount}}\n- Merchant: {{merchant}}\n- Date: {{date}}\n- Card ID: {{cardId}}\n\nIf you don't recognize this transaction, contact us immediately.\n\nBest regards,\nInferno Bank Team"
+}
