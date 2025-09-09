@@ -1,0 +1,5 @@
+{
+  "subject": "Welcome to Inferno Bank, {{fullName}}!",
+  "htmlBody": "<html><body><div style='font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;'><h1 style='color: #d32f2f;'>Welcome to Inferno Bank! 🔥</h1><p>Hello <strong>{{fullName}}</strong>,</p><p>Welcome to our digital banking platform. We're excited to have you on board!</p><p>Your account has been successfully created and you can now start using our services.</p><p>Best regards,<br><strong>Inferno Bank Team</strong></p></div></body></html>",
+  "textBody": "Welcome to Inferno Bank!\n\nHello {{fullName}},\n\nWelcome to our digital banking platform. We're excited to have you on board!\n\nYour account has been successfully created and you can now start using our services.\n\nBest regards,\nInferno Bank Team"
+}
